@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
