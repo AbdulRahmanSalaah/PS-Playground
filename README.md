@@ -6,18 +6,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
