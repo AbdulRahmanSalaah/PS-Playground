@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
