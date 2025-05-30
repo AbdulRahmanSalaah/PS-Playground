@@ -15,7 +15,7 @@ public:
             cars[i] = {position[i], time};
         }
         stack<double> st;
-        sort(cars.begin(), cars.end(), greater<pair<int, double>>());
+        sort(cars.rbegin(), cars.rend());
         for (int i = 0; i < n; ++i)
         {
             double time = cars[i].second;
