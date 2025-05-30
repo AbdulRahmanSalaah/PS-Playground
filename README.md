@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
