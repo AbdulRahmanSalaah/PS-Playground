@@ -16,14 +16,14 @@ public:
         int l = 0, r = n1;
         while (l <= r)
         {
-            int midx = (l + r) / 2;
-            int partitionY = half - midx;
+            int midX = (l + r) / 2;
+            int midY = half - midX;
 
-            int maxX = (midx == 0) ? INT_MIN : nums1[midx - 1];
-            int minX = (midx == n1) ? INT_MAX : nums1[midx];
+            int maxX = (midX == 0) ? INT_MIN : nums1[midX - 1];
+            int minX = (midX == n1) ? INT_MAX : nums1[midX];
 
-            int maxY = (partitionY == 0) ? INT_MIN : nums2[partitionY - 1];
-            int minY = (partitionY == n2) ? INT_MAX : nums2[partitionY];
+            int maxY = (midY == 0) ? INT_MIN : nums2[midY - 1];
+            int minY = (midY == n2) ? INT_MAX : nums2[midY];
 
             if (maxX <= minY && maxY <= minX)
             {
@@ -38,11 +38,11 @@ public:
             }
             else if (maxX > minY)
             {
-                r = midx - 1;
+                r = midX - 1;
             }
             else
             {
-                l = midx + 1;
+                l = midX + 1;
             }
         }
         return 0.0; 
