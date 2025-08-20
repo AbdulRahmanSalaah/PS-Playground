@@ -1,27 +1,21 @@
-#include <bits/stdc++.h>
-using namespace std;
-class Solution
-{
+class Solution {
 public:
-    int lengthOfLongestSubstring(string s)
-    {
-        int n = s.size();
-        if (n == 0)
-            return 0;
-        map<char, int> mp;
-        int maxLength = 0;
-        int l = 0, r = 0;
-        while (r < n)
+    int lengthOfLongestSubstring(string s) {
+        int l = 0 , r = 0 ;
+        map<char,int>mp;
+        int ans = 0 ;
+        while(r<s.size())
         {
-            if (mp.find(s[r]) != mp.end() && mp[s[r]] >= l)
+            mp[s[r]]++;
+            while( mp[s[r]]>1)
             {
-               
-                l = mp[s[r]] + 1; 
+                 mp[s[l]]--;
+                 l++;
+
             }
-            mp[s[r]] = r;                         
-            maxLength = max(maxLength, r - l + 1); 
-            r++;                                   
+            ans = max(ans,r-l+1);
+            r++;
         }
-        return maxLength;
+        return ans;
     }
 };
