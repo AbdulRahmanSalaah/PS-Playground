@@ -1,25 +1,27 @@
-#define ll long long
-class Solution {
+#include <bits/stdc++.h>
+using namespace std;
+class Solution
+{
 public:
-    int lengthOfLongestSubstring(string s) {
-        
-        map<char, ll> mp;
-    ll l = 0, r = 0;
-    ll res = 0;
-    while (r < s.size())
+    int lengthOfLongestSubstring(string s)
     {
-        mp[s[r]]++;
-       while(mp[s[r]]>1)
+        int n = s.size();
+        if (n == 0)
+            return 0;
+        map<char, int> mp;
+        int maxLength = 0;
+        int l = 0, r = 0;
+        while (r < n)
         {
-            mp[s[l]]--;
-           
-            l++;
+            if (mp.find(s[r]) != mp.end() && mp[s[r]] >= l)
+            {
+               
+                l = mp[s[r]] + 1; 
+            }
+            mp[s[r]] = r;                         
+            maxLength = max(maxLength, r - l + 1); 
+            r++;                                   
         }
-        res = max(res, r - l + 1);
-        r++;
-    }
-    return res;
-
-
+        return maxLength;
     }
 };
