@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
