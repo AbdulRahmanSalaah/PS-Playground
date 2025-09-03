@@ -14,7 +14,7 @@ public:
     }
 
 private:
-    bool dfs(vector<vector<char>>& board, string word, int i, int j, int k) {
+    bool dfs(vector<vector<char>>& board, string &word, int i, int j, int k) {
         int dx[4] = {0, 1, 0, -1}; // row directions
         int dy[4] = {1, 0, -1, 0}; // col directions
         if (k == word.size()) {
