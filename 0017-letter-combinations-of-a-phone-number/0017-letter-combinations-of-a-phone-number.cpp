@@ -1,27 +1,29 @@
 class Solution {
 public:
-    vector<string> res;
-    vector<string> digitToChar = {"",    "",    "abc",  "def", "ghi",
-                                  "jkl", "mno", "pqrs", "tuv", "wxyz"};
     vector<string> letterCombinations(string digits) {
-
         if (digits.empty())
-            return res;
+            return {};
 
-        backtrack(0, "", digits);
+        vector<string> digitToChar = {"",    "",    "abc",  "def", "ghi",
+                                      "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        vector<string> res;
+
+        string curr = "";
+        backtrack(digits, 0, digitToChar, curr, res);
         return res;
     }
 
-    void backtrack(int i, string str, string& digits) {
-        if (str.size() == digits.size()) {
-            res.push_back(str);
+    void backtrack(string& digits, int i, vector<string>& digitToChar,
+                   string& curr, vector<string>& res) {
+        if (curr.size() == digits.size()) {
+            res.push_back(curr);
             return;
         }
         string chars = digitToChar[digits[i] - '0'];
         for (char c : chars) {
-            str.push_back(c);
-            backtrack(i + 1, str, digits);
-            str.pop_back();
+            curr.push_back(c);
+            backtrack(digits, i + 1, digitToChar, curr, res);
+            curr.pop_back();
         }
     }
 };
