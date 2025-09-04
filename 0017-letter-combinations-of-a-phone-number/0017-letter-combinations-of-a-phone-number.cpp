@@ -9,11 +9,11 @@ public:
         vector<string> res;
 
         string curr = "";
-        backtrack(digits, 0, digitToChar, curr, res);
+        backtrack(0, digits, digitToChar, curr, res);
         return res;
     }
 
-    void backtrack(string& digits, int i, vector<string>& digitToChar,
+    void backtrack(int i, string& digits, vector<string>& digitToChar,
                    string& curr, vector<string>& res) {
         if (curr.size() == digits.size()) {
             res.push_back(curr);
@@ -22,7 +22,7 @@ public:
         string chars = digitToChar[digits[i] - '0'];
         for (char c : chars) {
             curr.push_back(c);
-            backtrack(digits, i + 1, digitToChar, curr, res);
+            backtrack(i + 1, digits, digitToChar, curr, res);
             curr.pop_back();
         }
     }
