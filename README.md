@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
