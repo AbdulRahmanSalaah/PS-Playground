@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
