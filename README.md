@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
