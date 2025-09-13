@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Search
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Union Find
 |  |
 | ------- |
