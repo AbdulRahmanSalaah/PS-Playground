@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
