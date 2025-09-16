@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
