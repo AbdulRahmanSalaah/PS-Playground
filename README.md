@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
