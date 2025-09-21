@@ -1,30 +1,33 @@
 class Solution {
-    bool iscycle(vector<int> adj[], vector<int>& vis, int id) {
-        if (vis[id] == 1)
-            return true;
-        if (vis[id] == 0) {
-            vis[id] = 1;
-            for (auto edge : adj[id]) {
-                if (iscycle(adj, vis, edge))
-                    return true;
-            }
-        }
-        vis[id] = 2;
-        return false;
-    }
-
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> adj[numCourses];
-        vector<int> vis(numCourses, 0);
+        vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses, 0);
 
-        for (auto edge : prerequisites) {
-            adj[edge[1]].push_back(edge[0]);
+        for (auto& p : prerequisites) {
+            int course = p[0], pre = p[1];
+            adj[pre].push_back(course);
+            indegree[course]++;
         }
+
+        queue<int> q;
         for (int i = 0; i < numCourses; i++) {
-            if (iscycle(adj, vis, i))
-                return false;
+            if (indegree[i] == 0) q.push(i);
         }
-        return true;
+
+        int count = 0;
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            count++;
+            for (int nei : adj[node]) {
+                indegree[nei]--;
+                if (indegree[nei] == 0) {
+                    q.push(nei);
+                }
+            }
+        }
+
+        return count == numCourses;
     }
 };
