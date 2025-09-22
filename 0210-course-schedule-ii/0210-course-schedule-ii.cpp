@@ -15,12 +15,10 @@ public:
             if (indegree[i] == 0)
                 q.push(i);
         }
-        int cnt =0;
         while (!q.empty()) {
             int node = q.front();
             order.push_back(node);
             q.pop();
-            cnt++;
             for (auto nei : adj[node]) {
                 indegree[nei]--;
                 if (indegree[nei] == 0) {
@@ -28,7 +26,7 @@ public:
                 }
             }
         }
-        if(cnt==numCourses)
+        if(order.size()==numCourses)
         {
             return order;
         }
