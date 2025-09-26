@@ -4,23 +4,14 @@ class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        memo.assign(n + 1, -1);
-        return helper(cost, n);
-    }
+        vector<int> dp(n, 0);
 
-    int helper(vector<int>& cost, int i) {
-        if (i == 0)
-            return cost[0];
-        if (i == 1)
-            return cost[1];
+        dp[n - 1] = cost[n - 1];
+        dp[n - 2] = cost[n - 2];
 
-        if (memo[i] != -1)
-            return memo[i];
-
-        if (i == cost.size()) {
-            return memo[i] = min(helper(cost, i - 1), helper(cost, i - 2));
+        for (int i = n - 3; i >= 0; i--) {
+            dp[i] = cost[i] + min(dp[i + 1], dp[i + 2]);
         }
-
-        return memo[i] = cost[i] + min(helper(cost, i - 1), helper(cost, i - 2));
+        return min(dp[0], dp[1]);
     }
 };
