@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0572-subtree-of-another-tree) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0744-network-delay-time) |
 ## Topological Sort
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0744-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
