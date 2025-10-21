@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -428,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
