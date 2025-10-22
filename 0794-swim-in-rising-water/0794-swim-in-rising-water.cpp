@@ -4,43 +4,43 @@ public:
         int n = grid.size();
         vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
         vector<vector<bool>> vis(n, vector<bool>(n, false));
-        
+
         int dx[4] = {0, 1, 0, -1};
         int dy[4] = {1, 0, -1, 0};
 
-        priority_queue<
-            pair<int, pair<int, int>>,
-            vector<pair<int, pair<int, int>>>,
-            greater<pair<int, pair<int, int>>>
-        > pq;
+        priority_queue<pair<int, pair<int, int>>,
+                       vector<pair<int, pair<int, int>>>,
+                       greater<pair<int, pair<int, int>>>>
+            pq;
+    
+    dist[0][0] = grid[0][0];
+    pq.push({grid[0][0], {0, 0}});
 
-        dist[0][0] = grid[0][0];
-        pq.push({grid[0][0], {0, 0}});
+    while (!pq.empty()) {
+        auto [time, cell] = pq.top();
+        pq.pop();
+        int x = cell.first;
+        int y = cell.second;
+        if (vis[x][y])
+            continue;
+        vis[x][y] = true;
 
-        while (!pq.empty()) {
-            auto [time, cell] = pq.top();
-            pq.pop();
-            int x = cell.first, y = cell.second;
+        if (x == n - 1 && y == n - 1)
+            return time;
 
-            if (vis[x][y]) continue;
-            vis[x][y] = true;
+        for (int d = 0; d < 4; d++) {
+            int nx = x + dx[d];
+            int ny = y + dy[d];
 
-            if (x == n - 1 && y == n - 1) return time;
-
-            for (int dir = 0; dir < 4; dir++) {
-                int nx = x + dx[dir];
-                int ny = y + dy[dir];
-
-                if (nx >= 0 && ny >= 0 && nx < n && ny < n && !vis[nx][ny]) {
-                    int newTime = max(time, grid[nx][ny]);
-                    if (newTime < dist[nx][ny]) {
-                        dist[nx][ny] = newTime;
-                        pq.push({newTime, {nx, ny}});
-                    }
+            if (nx >= 0 && ny >= 0 && nx < n && ny < n && !vis[nx][ny]) {
+                int newTime = max(time, grid[nx][ny]);
+                if (newTime < dist[nx][ny]) {
+                    dist[nx][ny] = newTime;
+                    pq.push({newTime, {nx, ny}});
                 }
             }
         }
-
-        return -1; 
+    }
+        return -1;
     }
 };
