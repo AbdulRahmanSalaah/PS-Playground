@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
