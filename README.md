@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1706-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1929-concatenation-of-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
@@ -557,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
