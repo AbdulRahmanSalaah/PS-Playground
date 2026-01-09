@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0036-valid-sudoku) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0022-generate-parentheses) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0211-design-add-and-search-words-data-structure) |
