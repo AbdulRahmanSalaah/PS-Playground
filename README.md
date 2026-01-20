@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0213-house-robber-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0242-valid-anagram) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0242-valid-anagram) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1014-k-closest-points-to-origin) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 ## Quickselect
