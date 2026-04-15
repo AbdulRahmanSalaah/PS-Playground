@@ -575,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1929-concatenation-of-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
