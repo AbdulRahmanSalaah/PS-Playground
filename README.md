@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1250-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0768-partition-labels) |
+| [1768-merge-strings-alternately](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
