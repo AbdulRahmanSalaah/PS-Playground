@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0747-min-cost-climbing-stairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
