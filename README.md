@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0747-min-cost-climbing-stairs) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0907-koko-eating-bananas) |
