@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0189-rotate-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdulRahmanSalaah/PS-Playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
