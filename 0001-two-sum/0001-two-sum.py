@@ -1,13 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        mp = {}  
-        
-        for i, num in enumerate(nums):
-            c = target - num
-            
-            if c in mp:
-                return [mp[c], i]
-            
-            mp[num] = i
-            
+        mp = {}
+        for i,n in enumerate(nums):
+            dif = target-n
+            if dif in mp:
+              return [mp[dif], i]
+
+            mp[n]=i
         return []
